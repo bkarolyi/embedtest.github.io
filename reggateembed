@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Title of the document</title>
+</head>
+
+<body>
+<iframe src="https://video.ibm.com/embed/25816486" 
+  style="border: 0;" 
+  webkitallowfullscreen 
+  allowfullscreen 
+  frameborder="no" 
+  width="952" 
+  height="624" 
+  referrerpolicy="no-referrer-when-downgrade"></iframe>
+</body>
+
+</html>
